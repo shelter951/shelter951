@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,40:0b0f12,100:111827&text=shelter951&fontColor=f5f5f5&fontAlignY=35&desc=code%20%7C%20mood%20%7C%20silence&descAlignY=55&animation=fadeIn" alt="header" />
 
-<h2>In case I don't see you, good afternoon, good evening, and good night.</h2>
+<h2>"In case I don't see you, good afternoon, good evening, and good night."</h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=7EE787&center=true&vCenter=true&width=860&lines=writing+in+silence%2C+building+in+shadows.;some+things+are+meant+to+glow+quietly.;vibe+first%2C+then+logic." alt="Typing intro" />
 

@@ -92,8 +92,6 @@ while(alive) {
 
 <div align="center">
 
-<h2>For all men tragically great are made so through a certain morbidness.<br/>Be sure of this, O young ambition, all mortal greatness is but disease.</h2>
-
-<sub>and still, we build.</sub>
+<h2>"For all men tragically great are made so through a certain morbidness.<br/>Be sure of this, O young ambition, all mortal greatness is but disease."</h2>
 
 </div>

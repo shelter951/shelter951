@@ -2,9 +2,11 @@
 
 <div align="center">
 
-### in case i don't see you good afternoon good evening and good night
+<h2>in case i don't see you good afternoon good evening and good night</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2EA043&center=true&vCenter=true&width=800&lines=Turning+coffee+into+commits.;Shipping+ideas+into+reality.;Always+building+something+fun." alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=7EE787&center=true&vCenter=true&width=860&lines=writing+in+silence%2C+building+in+shadows.;some+things+are+meant+to+glow+quietly.;vibe+first%2C+then+logic." alt="Typing intro" />
+
+<sub>a small corner of code, mood, and unfinished constellations.</sub>
 
 </div>
 
@@ -20,6 +22,10 @@ Location  : Earth
 Status    : Building cool things one commit at a time
 ```
 
+<p align="center">
+between curiosity and static, I keep making things that feel a little alive.
+</p>
+
 ---
 
 ## Snake Eating My Contributions
@@ -32,6 +38,10 @@ Status    : Building cool things one commit at a time
   </picture>
 </div>
 
+<p align="center">
+  <sub>the archive moves, the trace remains.</sub>
+</p>
+
 ---
 
 ## Tech Stack
@@ -39,6 +49,10 @@ Status    : Building cool things one commit at a time
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,tailwind,docker,git,github,vscode&perline=6" alt="Tech stack icons" />
 </div>
+
+<p align="center">
+  <sub>tools for making signal out of noise.</sub>
+</p>
 
 ---
 
@@ -55,10 +69,11 @@ Status    : Building cool things one commit at a time
 
 ```bash
 while(alive) {
-  eat();
-  code();
-  debug();
-  level_up();
+  wander();
+  make();
+  doubt();
+  refine();
+  repeat();
 }
 ```
 
@@ -68,15 +83,15 @@ while(alive) {
 
 <div align="center">
   <a href="mailto:202435349@mail.sdu.edu.cn"><img src="https://img.shields.io/badge/Email-202435349%40mail.sdu.edu.cn-2EA043?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/shelter951"><img src="https://img.shields.io/badge/GitHub-shelter951-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/shelter951"><img src="https://img.shields.io/badge/GitHub-shelter951-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 ---
 
 <div align="center">
 
-### Thanks for stopping by
+<h2>For all men tragically great are made so through a certain morbidness. Be sure of this, O young ambition, all mortal greatness is but disease.</h2>
 
-`The world goes quiet, and the code keeps glowing.`
+<sub>and still, we build.</sub>
 
 </div>

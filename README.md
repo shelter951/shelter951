@@ -1,45 +1,72 @@
+﻿# Hi there, I'm `shelter951`
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+a+Developer.;Always+Learning." alt="Typing SVG" />
-  
-  <h3> 🚀 欢迎来到我的代码世界 </h3>
-  
-  <p>
-    <a href="mailto:henghui.sun@mail.sdu.edu.cn">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://your-blog.com">
-      <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
-    </a>
-    <a href="https://www.linkedin.com/in/你的ID/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
+
+### Code. Build. Break. Learn. Repeat.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2EA043&center=true&vCenter=true&width=800&lines=Turning+coffee+into+commits.;Shipping+ideas+into+reality.;Always+building+something+fun." alt="Typing intro" />
+
+## About Me
+
+```text
+Name      : YOUR_NAME
+Role      : Developer / Builder / Problem Solver
+Focus     : Full Stack / AI / Automation / Creative Coding
+Location  : Earth
+Status    : Building cool things one commit at a time
+```
+
+鎴戞槸涓€涓枩娆㈡妸鐏垫劅蹇€熷仛鎴愪綔鍝佺殑浜恒€?骞虫椂浼氭姌鑵句竴浜涙湁瓒ｇ殑椤圭洰銆佽嚜鍔ㄥ寲宸ュ叿銆丄I 搴旂敤锛岃繕鏈夐偅浜涒€滅湅璧锋潵涓嶄竴瀹氬繀瑕侊紝浣嗗氨鏄緢閰封€濈殑灏忎笢瑗裤€?
+---
+
+## Snake Eating My Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shelter951/shelter951/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+>>>>>>> 690e27c (feat: add GitHub profile README with snake animation)
+</div>
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,tailwind,docker,git,github,vscode&perline=6" alt="Tech stack icons" />
 </div>
 
 ---
 
-### 👨‍💻 关于我 (About Me)
-
-- 🔭 我目前正在从事 **[你的项目名称或领域]** 的开发。
-- 🌱 我正在深入学习 **[你想学的技术，如 Rust/AI/架构]**。
-- 👯 我希望能与大家在 **开源项目** 上进行合作。
-- 💬 欢迎向我咨询关于 **[你擅长的领域]** 的问题。
-- ⚡ **Fun fact:** [写一个关于你的有趣小事实，比如“我不用鼠标写代码”]。
-
----
-
-### 🛠️ 技术栈 (Tech Stack)
+## GitHub Stats
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nodejs,python,java,mysql,docker,git,vscode&perline=14" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shelter951&show_icons=true&theme=transparent&hide_border=true&title_color=2EA043&icon_color=2EA043&text_color=C9D1D9" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shelter951&layout=compact&theme=transparent&hide_border=true&title_color=2EA043&text_color=C9D1D9" alt="Top languages" />
 </div>
 
 ---
 
-### 📊 GitHub 统计 (Stats)
+## Current Vibe
+
+```bash
+while(alive) {
+  eat();
+  code();
+  debug();
+  level_up();
+}
+```
+
+---
+
+## Find Me Here
+
+- Blog: `https://your-site.dev`
+- X / Twitter: `https://x.com/your_handle`
+- Email: `you@example.com`
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[你的GitHub用户名]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180px" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[你的GitHub用户名]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180px" />
+
+### Thanks for stopping by
+
+`If it works, ship it. If it breaks, learn from it.`
+
 </div>

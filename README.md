@@ -90,8 +90,7 @@ while(alive) {
 
 <div align="center">
 
-<h2>"For all men tragically great are made so through a certain morbidness. 
-Be sure of this, O young ambition, all mortal greatness is but disease."</h2>
-
+<h2>"For all men tragically great are made so through a certain morbidness. </h2>
+<h2>Be sure of this, O young ambition, all mortal greatness is but disease."</h2>
 
 </div>

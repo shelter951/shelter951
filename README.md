@@ -1,45 +1,31 @@
-﻿# shelter951
+﻿# Hi there, I'm `shelter951`
 
 <div align="center">
-  <sub>Developer / Builder / Research-minded Engineer</sub>
+
+### Code. Build. Break. Learn. Repeat.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2EA043&center=true&vCenter=true&width=800&lines=Turning+coffee+into+commits.;Shipping+ideas+into+reality.;Always+building+something+fun." alt="Typing intro" />
+
 </div>
 
-<br />
+---
 
-I am `YOUR_NAME`, a developer interested in building reliable systems, useful tools, and elegant products.
-My work sits around `FULL STACK`, `AI APPLICATIONS`, `AUTOMATION`, and `SYSTEM DESIGN`.
+## About Me
 
-I care about clarity, taste, and shipping work that feels calm, precise, and complete.
+```text
+Name      : YOUR_NAME
+Role      : Developer / Builder / Problem Solver
+Focus     : Full Stack / AI / Automation / Creative Coding
+Location  : Earth
+Status    : Building cool things one commit at a time
+```
 
-## About
+我是一个喜欢把灵感快速做成作品的人。
+平时会折腾一些有趣的项目、自动化工具、AI 应用，还有那些“看起来不一定必要，但就是很酷”的小东西。
 
-- Working on: `YOUR_CURRENT_FOCUS`
-- Interested in: `YOUR_INTERESTS`
-- Based in: `YOUR_LOCATION`
-- Reach me at: `you@example.com`
+---
 
-## Selected Work
-
-### `Project One`
-A short one-line description of what this project does and why it matters.
-
-### `Project Two`
-A short one-line description of what this project does and why it matters.
-
-### `Project Three`
-A short one-line description of what this project does and why it matters.
-
-## Writing / Notes
-
-- `Article or Note One`
-- `Article or Note Two`
-- `Article or Note Three`
-
-## Tech
-
-`Python` `TypeScript` `Go` `React` `Next.js` `Node.js` `Docker` `Linux`
-
-## Activity
+## Snake Eating My Contributions
 
 <div align="center">
   <picture>
@@ -49,14 +35,50 @@ A short one-line description of what this project does and why it matters.
   </picture>
 </div>
 
+---
+
+## Tech Stack
+
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shelter951&show_icons=true&theme=transparent&hide_border=true&title_color=f59e0b&icon_color=f59e0b&text_color=94a3b8&ring_color=f59e0b" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shelter951&layout=compact&theme=transparent&hide_border=true&title_color=f59e0b&text_color=94a3b8" alt="Top languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,tailwind,docker,git,github,vscode&perline=6" alt="Tech stack icons" />
 </div>
 
-## Links
+---
 
-- GitHub: [shelter951](https://github.com/shelter951)
-- X: [@your_handle](https://x.com/your_handle)
-- Blog: [your-site.dev](https://your-site.dev)
-- Email: [you@example.com](mailto:you@example.com)
+## GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shelter951&show_icons=true&theme=transparent&hide_border=true&title_color=2EA043&icon_color=2EA043&text_color=C9D1D9" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shelter951&layout=compact&theme=transparent&hide_border=true&title_color=2EA043&text_color=C9D1D9" alt="Top languages" />
+</div>
+
+---
+
+## Current Vibe
+
+```bash
+while(alive) {
+  eat();
+  code();
+  debug();
+  level_up();
+}
+```
+
+---
+
+## Find Me Here
+
+- Blog: `https://your-site.dev`
+- X / Twitter: `https://x.com/your_handle`
+- Email: `you@example.com`
+
+---
+
+<div align="center">
+
+### Thanks for stopping by
+
+`If it works, ship it. If it breaks, learn from it.`
+
+</div>

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h2>in case i don't see you good afternoon good evening and good night</h2>
+<h2>"In case i don't see you, Good afternoon  Good evening and Good night."</h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=7EE787&center=true&vCenter=true&width=860&lines=writing+in+silence%2C+building+in+shadows.;some+things+are+meant+to+glow+quietly.;vibe+first%2C+then+logic." alt="Typing intro" />
 
@@ -90,8 +90,8 @@ while(alive) {
 
 <div align="center">
 
-<h2>For all men tragically great are made so through a certain morbidness. Be sure of this, O young ambition, all mortal greatness is but disease.</h2>
+<h2>"For all men tragically great are made so through a certain morbidness. 
+Be sure of this, O young ambition, all mortal greatness is but disease."</h2>
 
-<sub>and still, we build.</sub>
 
 </div>
